@@ -11,3 +11,4 @@ A version of Snapchat which support Monet Theme
 • and thanks to [momia](https://t.me/@M0MI4) for his lil help
 
 # Download
+• you can download it from the [release page](https://github.com/protoo15/SnapchatMonetTheme/releases)
