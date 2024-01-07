@@ -6,5 +6,8 @@ A version of Snapchat which support Monet Theme
 
 • yes, that's all
 
-# credit 
-• all the credits goes to [protoo15](https://t.me/protoo15)
+# Credit 
+• all the credits goes to [protoo15](https://t.me/protoo15), 
+• and thanks to [momia](https://t.me/@M0MI4) for his lil help
+
+# Download
